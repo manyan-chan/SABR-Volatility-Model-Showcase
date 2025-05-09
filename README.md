@@ -1,5 +1,7 @@
 # SABR Volatility Model Showcase with Streamlit
 
+![screenshot](screenshot.png)
+
 This application provides an interactive interface to explore the SABR (Stochastic Alpha, Beta, Rho) volatility model. It uses the well-known Hagan et al. (2002) analytical approximation to calculate and display the implied Black-Scholes volatility smile.
 
 Users can adjust the core SABR parameters (Alpha, Beta, Rho, Nu) as well as market parameters (Forward Price, Time to Maturity) and observe their impact on the volatility smile in real-time.
